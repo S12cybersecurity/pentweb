@@ -1,0 +1,21 @@
+#!/bin/bash
+mkdir Exploitation
+mkdir Exploitation/Info
+mkdir Exploitation/Info/Users
+mkdir Exploitation/Info/LogIn
+mkdir Exploitation/Info/Fileupload
+mkdir Exploitation/Info/Others
+mkdir Scanning
+mkdir Scanning/Nmap
+mkdir Scanning/Other
+mkdir Scanning/Dirb
+mkdir Scanning/Wappalyzer
+touch Exploitation/Vulnerabilities.txt
+touch Exploitation/Info/Users/Genérico.txt
+touch Exploitation/Info/LogIn/Genérico.txt
+touch Exploitation/Info/Fileupload/Genérico.txt
+touch Exploitation/Info/Others/Genérico.txt
+touch Scanning/Nmap/Genérico.txt
+touch Scanning/Other/Genérico.txt
+touch Scanning/Dirb/Genérico.txt
+touch Scanning/Wappalyzer/Genérico.txt
